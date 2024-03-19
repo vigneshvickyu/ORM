@@ -48,7 +48,8 @@ admin.site.register(Railway_db,Railway_dbAdmin)
 ```
 ## OUTPUT
 
-![Screenshot 2024-03-18 192258](https://github.com/vigneshvickyu/ORM/assets/151948835/0532c528-a0f5-4606-add6-a3546fc8dec3)
+![screen short 2](https://github.com/vigneshvickyu/ORM/assets/151948835/31e452bc-9221-4e99-b424-d714a9e76bc4)
+
 
 
 ## RESULT
